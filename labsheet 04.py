@@ -1,17 +1,3 @@
-# # Regression Models — Complete Program List
-# **Experiments 1–35**: Simple Linear Regression, Multiple Linear Regression,
-# Polynomial Regression, Model Evaluation, and Model Improvement.
-# 
-# **Dataset used (primary):** `Diabetes` dataset (built into scikit-learn,
-# loaded directly — no file upload/internet download needed). It contains 10
-# baseline physiological measurements for 442 diabetes patients and a
-# quantitative measure of disease progression one year after baseline
-# (the target).
-# **Dataset used (Exp. 33, another real-world dataset):** `Linnerud` dataset
-# (also built into scikit-learn) — physiological and exercise measurements
-# from a fitness club.
-# 
-
 # Common imports used throughout the notebook
 import numpy as np
 import pandas as pd
